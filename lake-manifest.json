@@ -1,0 +1,16 @@
+{"version": "1.2.0",
+ "packagesDir": ".lake/packages",
+ "packages":
+ [{"url": "https://github.com/leanprover-community/plausible",
+   "type": "git",
+   "subDir": null,
+   "scope": "",
+   "rev": "a456461b368b71d2accd95234832cd9c174b5437",
+   "name": "Plausible",
+   "manifestFile": "lake-manifest.json",
+   "inputRev": "v4.30.0",
+   "inherited": false,
+   "configFile": "lakefile.toml"}],
+ "name": "http3_queue",
+ "lakeDir": ".lake",
+ "fixedToolchain": false}
